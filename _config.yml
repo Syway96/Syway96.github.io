@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Siwei Wang | 个人简历"
 title_separator          : "-"
 name                     : &name "Siwei Wang"
-description              : &description "哈工大（威海）人工智能专业本科生"
+description              : &description ""
 url                      : https://Syway96.github.io
 baseurl                  : "" 
 repository               : "Syway96/Syway96.github.io"
@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"  # 以后可以照片到images文件夹
   name             : "Syway96"
   pronouns         : "he/him"
-  bio              : "哈尔滨工业大学（威海）人工智能专业本科生"
+  bio              : ""
   location         : "山东威海"
   employer         : "哈尔滨工业大学（威海）"
   uri              : https://Syway96.github.io
