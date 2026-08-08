@@ -25,12 +25,12 @@ redirect_from:
 ## 实践经历
 
 1. **基于 RAG 的 AI 课程智能问答系统（大一年度项目组长）**
-	*项目链接：https://github.com/Syway96/ReTA*
+	*项目链接:[https://github.com/Syway96/ReTA](https://github.com/Syway96/ReTA)*
 	- 采用 Markdown 文件作为原始文档
 	- 使用 LangChain/LangGraph 框架和 Chainlit 界面
 	- 初步实现对多本 AI 教材的精准检索及问答
 2. **SywayClaw（轻量级个人 AI Agent）**
-	*项目链接：https://github.com/Syway96/SywayClaw*
+   *项目链接:[https://github.com/Syway96/SywayClaw](https://github.com/Syway96/SywayClaw)*
 
 ## 科研兴趣
 
