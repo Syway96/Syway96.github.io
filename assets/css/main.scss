@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* 防止中文词被意外拆行（如“网课”） */
+.page__content {
+  word-break: keep-all;
+  line-break: strict;
+}

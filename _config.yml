@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-site_theme               : "mint"
+site_theme               : "dirt"
 title                    : "Siwei Wang | 个人简历"
 title_separator          : "-"
 name                     : &name "Siwei Wang"
